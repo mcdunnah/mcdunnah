@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my skills of coding languages and creating innovative projects to solve real-world problems.<br>🌱 I’m currently learning Python, Machine Learning, and Data Structures in Java.<br>💬 Ask me about Data Structures<br>⚡ Fun fact: I love being outdoors! In my free time, you'll find me in my garden or hiking up in the mountains. I'm also a big-time traveler and enjoy immersing myself in new cultures.
+🔭 I’m currently working on improving my skills of coding languages and creating innovative projects to solve real-world problems.<br>🌱 I’m currently learning Python, Machine Learning, and Data Structures in Java.<br>💬 Ask me about emerging technologies!<br>⚡ Fun fact: I love being outdoors! In my free time, you'll find me in my garden or hiking up in the mountains. I'm also a big-time traveler and enjoy immersing myself in new cultures.
 
 
 ## 🌐 Socials:
